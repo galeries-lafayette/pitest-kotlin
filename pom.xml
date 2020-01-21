@@ -4,7 +4,7 @@
 
 	<groupId>org.pitest</groupId>
 	<artifactId>pitest-kotlin-plugin</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 
 	<name>pitest-kotlin-plugin</name>
 	<url>http://pitest.org</url>
